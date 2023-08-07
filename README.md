@@ -7,7 +7,8 @@ I'm passionate about algorithms, programming, data structures and computer scien
 
 ## Advice to check this readme
 
-Is meant to be read in dark theme.
+It is meant to be read in dark theme.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niquefa) 
