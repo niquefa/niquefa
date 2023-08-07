@@ -39,3 +39,5 @@ It is meant to be read in dark theme.
 [![](https://visitcount.itsvg.in/api?id=niquefa&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=niquefa)](https://github.com/anuraghazra/github-readme-stats)
