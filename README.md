@@ -40,6 +40,6 @@ It is meant to be read in dark theme.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
- # Wakatime (Since August 2023)
+ # Wakatime (Since 7 of August 2023)
 
  [![Niquefa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=niquefa)](https://github.com/anuraghazra/github-readme-stats)
