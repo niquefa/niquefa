@@ -1,8 +1,13 @@
 # Hi, I'm Rafa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+
+
 # 💫 About Me:
 I'm passionate about algorithms, programming, data structures and computer science in general, I love team working to solve challenging problems.
 
+## Advice to check this readme
+
+Is meant to be read in dark theme.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niquefa) 
