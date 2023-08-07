@@ -17,7 +17,8 @@ Is meant to be read in dark theme.
 
 # Contribution graph
 
-[![niquefa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niquefa0&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=niquefa&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
