@@ -3,7 +3,9 @@
 
 
 # 💫 About Me:
-I'm primarily a backend developer, although I have solved about 5 frontend tickets (more or less 😅). I have worked on the design, implementation, load/stress/QA testing, bug fixing, and evolution of various backend systems for several startups, one big tech company (such as mercadolibre.co), various SaaS companies, and even the District of Bogotá. In all these roles, I have utilized several technology stacks, mainly related to Go, Python, Java, TypeScript, and .NET.
+I'm primarily a backend developer with 5 to 10 years of experience (depending on whether you consider part-time software development or just full-time software development), although I have solved about 5 frontend tickets (more or less 😅). I have worked on the design, implementation, load/stress/QA testing, bug fixing, and evolution of various backend systems for several startups, a big tech company (such as mercadolibre.co), various SaaS companies, and even the District of Bogotá. In all these roles, I have utilized several technology stacks, mainly related to Go, Python, Java, TypeScript, and .NET.
+
+Fundamentally I'm a team player I have try to put in this ig account [mytechteamfirst] (https://www.instagram.com/mytechteamfirst/) my toughts on that, although is a little old the last post
 
 "I'm passionate about algorithms, programming, data structures, and computer science in general. I love working in teams to solve challenging problems.
 
