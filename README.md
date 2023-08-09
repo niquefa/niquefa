@@ -5,8 +5,8 @@
 # 💫 About Me:
 I'm primarily a backend developer with 5 to 10 years of experience (depending on whether you consider part-time software development or just full-time software development), although I have solved about 5 frontend tickets (more or less 😅). I have worked on the design, implementation, load/stress/QA testing, bug fixing, and evolution of various backend systems for several startups, a big tech company (such as mercadolibre.co), various SaaS companies, and even the District of Bogotá. In all these roles, I have utilized several technology stacks, mainly related to Go, Python, Java, TypeScript, and .NET.
 
-I love to study every aspect of software development, from the highly technical to the human or soft skill-related aspects (or power skills, whatever you prefer to call them). Fundamentally, I'm a team player. I have tried to share my thoughts on this through my Instagram account [mytechteamfirst](https://www.instagram.com/mytechteamfirst/), although I kind of forgot to update it.
 
+I love every aspect of software development, from the highly technical to the human or soft skill-related aspects (or power skills, whatever you prefer to call them). Fundamentally, I'm a team player. I have tried to share my thoughts on this through my Instagram account [mytechteamfirst](https://www.instagram.com/mytechteamfirst/), although I kind of forgot to update it.
 
 I have also been a collegiate professor and training coach for competitive programming students and teams at the high school and collegiate levels. I participated two times in the [ACM ICPC World Finals (check here the hall of fame)](https://cphof.org/profile/topcoder:niquefa) as a contestant and three times as a coach (from 2011 to 2015). I coached the first Colombian team to become the Latin American champion of the ACM ICPC Regional Contest. To this day, from time to time, I still take part in some online contests just for the fun of it, but I'm too rusty.
 
