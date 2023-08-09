@@ -9,7 +9,7 @@
 
 👨‍🏫 I have also been a collegiate professor and training coach for competitive programming students and teams at the high school and collegiate levels. I participated two times in the [ACM ICPC World Finals (check here the hall of fame)](https://cphof.org/profile/topcoder:niquefa) as a contestant and three times as a coach (from 2011 to 2015). I coached the first Colombian team to become the Latin American champion of the ACM ICPC Regional Contest. To this day, from time to time, I still take part in some online contests just for the fun of it, but I'm too rusty.
 
-🎓 I have an undergraduate and a master's degree in Systems Engineering and Computing from the [National University of Colombia](https://unal.edu.co/), which, for all of you outside Latin America, is basically a mixture between Computer Science and Software Engineering.
+🎓 I have an undergraduate and a master's degree in Systems Engineering and Computing from the [National University of Colombia - Bogotá](https://unal.edu.co/), which, for all of you outside Latin America, is basically a mixture between Computer Science and Software Engineering.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niquefa) 
