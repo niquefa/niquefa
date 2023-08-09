@@ -3,11 +3,17 @@
 
 
 # 💫 About Me:
-I'm passionate about algorithms, programming, data structures and computer science in general, I love team working to solve challenging problems.
+I'm primarily a backend developer, although I have solved about 5 frontend tickets (more or less 😅). I have worked on the design, implementation, load/stress/QA testing, bug fixing, and evolution of various backend systems for several startups, one big tech company (such as mercadolibre.co), various SaaS companies, and even the District of Bogotá. In all these roles, I have utilized several technology stacks, mainly related to Go, Python, Java, TypeScript, and .NET.
+
+"I'm passionate about algorithms, programming, data structures, and computer science in general. I love working in teams to solve challenging problems.
+
+I have also been a collegiate professor and training coach for competitive programming students and teams at the high school and collegiate levels.
+
+I participated two times in the ACM ICPC World Finals as a contestant and three times as a coach (from 2011 to 2015). I coached the first Colombian team to become the Latin American champion of the ACM ICPC Regional Contest."
 
 ## Advice to check this readme
 
-It is meant to be read in dark theme.
+It is meant to be read in dark theme, except may be some parts, sorry I'm no designer 😅.
 
 
 ## 🌐 Socials:
