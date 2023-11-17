@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-👨‍💻 I'm primarily a backend developer with 5 to 10 years of experience (depending on whether you consider part-time software development or just full-time software development), although I have solved about 5 frontend tickets (more or less 😅). I have worked on the design, implementation, load/stress/QA testing, bug fixing, and evolution of various backend systems for several startups, a big tech company (mercadolibre.co), various SaaS companies, and even the District of Bogotá. In all these roles. I have experience with several technology stacks, mainly related to Go, Python, Java, TypeScript and C#.
+👨‍💻 I'm primarily a backend developer with 5 to 10 years of experience (depending on whether you consider part-time software development or just full-time software development), although I have solved about 5 frontend tickets (more or less 😅). I have worked on the design, implementation, load/stress/QA testing, bug fixing, and evolution of various backend systems for several startups, a big tech company (mercadolibre.co), various Software Factory kind of companies, and even the District of Bogotá. In all these roles. I have experience with several technology stacks, mainly related to Go, Python, Java, TypeScript and C#.
 
 💻 I love every aspect of software development, from the highly technical to the human or soft skill-related aspects (or power skills, whatever you prefer to call them). Fundamentally, I'm a team player. I have tried to share my thoughts on this through my Instagram account [mytechteamfirst](https://www.instagram.com/mytechteamfirst/), although I kind of forgot to update it.
 
